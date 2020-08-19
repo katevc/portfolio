@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Kate Carlton",
+    "occupation":"Business and Computer Science Student",
+    "description":"I'm impact-driven, collaborative, and hard-working. As a professional, I'm passionate about leveraging the power of technology to make other people's lives easier",
+    "image":"profilepic.jpg",
+    "bio":"Hi! I'm Kate. When I started studying business at UofM, I quickly became more and more interested in the power of tech. So, after taking an introductory coding class, I decided to apply this newfound passion to a second major in Computer Science. In my coursework and professional experience, I have learned C++, SQL, HTML, CSS, and Python. I've also written projects in Javascript, ReactJS, and VueJS. In addition to these technical skills, I love to work as part of a team and practice my ability to listen and communicate clearly and effectively with others. Some of the topics I've studied in my UofM coursework include Data Structures and Algorithms, Human-Computer Interaction, User Interface Development, Management in Organizations, Corporate Strategy, and More!",
+    "email": "katevc@umich.edu",
+    "phone": "508-641-2431",
+    "address":{
+      "city":"Boston",
+      "state":"Massachusetts"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1GRciCrgZ8rNYmkKIADwwZ1PnJR7pDMQu/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/katevcarlton/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/katevc",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here some of the skills I have gained in my professional and educational experiences",
+    "education":[
+      {
+        "school":"University of Michigan: Ross School of Business",
+        "degree":"Bachelor of Business Administration",
+        "graduated":"Current Student",
+        "description":"Key Roles: Undergraduate Student Representative for the Ross Community Values Committee, TA for Management in Organizations, Consultant for Detroit Revitalization and Impact Group, Ross Global Study and Intern Program"
+      },
+      {
+        "school":"University of Michigan: College of Literature, Science and the Arts",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"Current Student",
+        "description":"Key Roles: Elected Representative for the Junior Panhellenic Committee, Assistant Vice President of Membership Recruitment, Member of the College Essay Revising Program, Member of Girls in Electrical Engineering and Computer Science"
+      },
+      {
+        "school":"Noble and Greenough School",
+        "degree":"High School",
+        "graduated":"Graduated 2016",
+        "description":"Key Roles: Captain of Varsity Volleyball Team, Wiggins Analytical Essay Award for Best Analytical Essay, Board Member for Students for Socio-Economic Awareness, Community Service Club"
+      }
+    ],
+    "work":[
+      {
+        "company":"SOLSTICE: NASA DRIVE SCIENCE CENTER ",
+        "title":"Web Development and Product Management Intern",
+        "years":"Summer 2020",
+        "description":"During this internship, I developed the webpage of the SOLSTICE research initiative for sharing amongst NASA, the University of Michigan, space weather researchers, and the scientific community as a whole. As part of my role, I spoke with over 30 key stakeholders from UofM and NASA, creating promotional videos to clarify the program's overall purpose and goals to website visitors."
+      },
+      {
+        "company":"MICHIGAN MEDICINE: OFFICE OF FACULTY DEVELOPMENT",
+        "title":"Strategy Consultant",
+        "years":"Summer 2020",
+        "description":"Alongside my MBA and BBA teammates, I developed the go-to-market strategy for Michigan Medicine’s online and in-person career advancement curriculum, creating a well-defined plan for the pilot launch of product. As part of this project, I established connections between Michigan Medicine and neighboring hospitals, creating relationships for the long-term promotion of Michigan Medicine programming. I also participated in developing a financial model to inform future decision making about the profitability of this venture."
+      },
+      {
+        "company":"COFFEE BEANERY",
+        "title":"Strategy Consultant",
+        "years":"January 2020 - April 2010",
+        "description":"While working on a team of consultants for Coffee Beanery, I advocated large-scale strategic change in their new product line, successfully arguing for better alignment between company brand, stakeholders and potential customers. I also organized a holistic marketing strategy for their product offering, sharing actionable strategies for inserts, email, social media and in-store marketing."
+      },
+      {
+        "company":"UNIVERSITY OF MICHIGAN: CONFERENCE AND EVENTS SERVICES",
+        "title":"Student Liason",
+        "years":"2018-2020",
+        "description":"I analyzed customer needs to develop and organize over 15 event plans daily, maximizing satisfaction and fostering positive relationships with University and Commercial customers. Additionally, I coordinated customer expectations and University event space availability, often scheduling events with over 100 guests and guiding customers in the creation of plans for meetings, conferences, weddings, and other events."
+      },
+      {
+        "company":"UNITED TECHNOLOGIES (UTC): CHUBB FIRE & SECURITY",
+        "title":"Business Intelligence Intern",
+        "years":"Summer 2018",
+        "description":"In this role, I analyzed company data and customer needs to present relevant company data to internal and external customers in an informative, visually-appealing manner. I utilized SQL queries to automate the reporting process and collect relevant data, generating downloadable SSRS reports in Visual Studio to be sent directly to customers. At the end of this project, I presented an MVP of the reports to stakeholders across Australia and incorporated feedback to make improvements, resulting in published reports on Chubb's website for employee and customer use."
+      }
+    ],
+    "skills":[
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"65%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"45%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Tableau",
+        "level":"40%"
+      },
+      {
+        "name":"Microsoft Excel",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Frost Fight",
+        "category":"A web game designed as part of my EECS 493 group project to teach incoming University of Michigan students how to navigate campus during the winter.",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://drive.google.com/file/d/1P2_RJxAOoeSz1DvC3q0jiVnbKjX8sxnM/view?usp=sharing"
+      },
+      {
+        "title":"Yelp Consumer Data Analysis",
+        "category":"Business analysis conducted for a group project, where we utilized SQL, Python and Tableau to understand the intersection of yelp consumer reviewing data and weather information.",
+        "image":"yelp.png",
+        "url":"https://drive.google.com/file/d/1SAO3KGgDE9G7sfZJg1OnYZXNIsvMuasD/view?usp=sharing"
+      },
+      {
+        "title":"Twitter Sentiment Analysis",
+        "category":"Tool to analyze tweets about select restuarants in Canada using Python and Vader Sentiment Analyzer",
+        "image":"food.jpg"
+      }
+    ]
+  }
+}
