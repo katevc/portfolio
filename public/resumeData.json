@@ -11,7 +11,6 @@
       "city":"Boston",
       "state":"Massachusetts"
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload":"https://drive.google.com/file/d/1GRciCrgZ8rNYmkKIADwwZ1PnJR7pDMQu/view?usp=sharing",
     "social":[
       {
@@ -32,13 +31,13 @@
       {
         "school":"University of Michigan: Ross School of Business",
         "degree":"Bachelor of Business Administration",
-        "graduated":"Current Student",
+        "graduated":"Expected Dec 2021",
         "description":"Key Roles: Undergraduate Student Representative for the Ross Community Values Committee, TA for Management in Organizations, Consultant for Detroit Revitalization and Impact Group, Ross Global Study and Intern Program"
       },
       {
         "school":"University of Michigan: College of Literature, Science and the Arts",
         "degree":"Bachelor of Science in Computer Science",
-        "graduated":"Current Student",
+        "graduated":"Expected Dec 2021",
         "description":"Key Roles: Elected Representative for the Junior Panhellenic Committee, Assistant Vice President of Membership Recruitment, Member of the College Essay Revising Program, Member of Girls in Electrical Engineering and Computer Science"
       },
       {
@@ -51,9 +50,9 @@
     "work":[
       {
         "company":"SOLSTICE: NASA DRIVE SCIENCE CENTER ",
-        "title":"Web Development and Product Management Intern",
-        "years":"Summer 2020",
-        "description":"During this internship, I developed the webpage of the SOLSTICE research initiative for sharing amongst NASA, the University of Michigan, space weather researchers, and the scientific community as a whole. As part of my role, I spoke with over 30 key stakeholders from UofM and NASA, creating promotional videos to clarify the program's overall purpose and goals to website visitors."
+        "title":"Full-stack Development and Product Management Co-Op",
+        "years":"May 2020 - June 2021",
+        "description":"During my work with the SOLSTICE research initiative, I developed a webpage using Vue.js to describe SOLSTICE's success and findings for sharing amongst NASA, the University of Michigan, space weather researchers, and the scientific community as a whole. As part of my role, I spoke with over 30 key stakeholders from UofM and NASA, creating promotional videos to clarify the program's overall purpose and goals to website visitors."
       },
       {
         "company":"MICHIGAN MEDICINE: OFFICE OF FACULTY DEVELOPMENT",
@@ -74,7 +73,7 @@
         "description":"I analyzed customer needs to develop and organize over 15 event plans daily, maximizing satisfaction and fostering positive relationships with University and Commercial customers. Additionally, I coordinated customer expectations and University event space availability, often scheduling events with over 100 guests and guiding customers in the creation of plans for meetings, conferences, weddings, and other events."
       },
       {
-        "company":"UNITED TECHNOLOGIES (UTC): CHUBB FIRE & SECURITY",
+        "company":"CHUBB FIRE & SECURITY",
         "title":"Business Intelligence Intern",
         "years":"Summer 2018",
         "description":"In this role, I analyzed company data and customer needs to present relevant company data to internal and external customers in an informative, visually-appealing manner. I utilized SQL queries to automate the reporting process and collect relevant data, generating downloadable SSRS reports in Visual Studio to be sent directly to customers. At the end of this project, I presented an MVP of the reports to stakeholders across Australia and incorporated feedback to make improvements, resulting in published reports on Chubb's website for employee and customer use."
@@ -83,11 +82,23 @@
     "skills":[
       {
         "name":"SQL",
-        "level":"70%"
+        "level":"80%"
+      },
+      {
+        "name": "Alteryx", 
+        "level": "55%"
+      }, 
+      {
+        "name": "Angular", 
+        "level": "70%"
       },
       {
         "name":"C++",
-        "level":"65%"
+        "level":"60%"
+      },
+      {
+        "name": "Vue", 
+        "level": "60%"
       },
       {
         "name":"ReactJs",
@@ -103,7 +114,7 @@
       },
       {
         "name":"Python",
-        "level":"45%"
+        "level":"55%"
       },
       {
         "name":"Git",
@@ -111,11 +122,19 @@
       },
       {
         "name":"Tableau",
-        "level":"40%"
+        "level":"60%"
       },
       {
         "name":"Microsoft Excel",
         "level":"70%"
+      },
+      {
+        "name": "Java", 
+        "level": "30%"
+      },
+      {
+        "name": "Docker", 
+        "level": "40%"
       }
     ]
   },
@@ -134,9 +153,15 @@
         "url":"https://drive.google.com/file/d/1SAO3KGgDE9G7sfZJg1OnYZXNIsvMuasD/view?usp=sharing"
       },
       {
-        "title":"Twitter Sentiment Analysis",
-        "category":"Tool to analyze tweets about select restuarants in Canada using Python and Vader Sentiment Analyzer",
-        "image":"food.jpg"
+        "title":"ARmaps",
+        "category":"Mobile application to provide AR navigation within enterprise-level businesses and venues that are typically underserved by existing commercial mapping applications. As part of a team of 5 developers, I provided oversight on sprints as a PM and was responsible for handling in-app geolocation and AR directional waypoints.",
+        "image":"ARmaps.png"
+      },
+      {
+        "title":"Solstice Website",
+        "category":"During a year-long planning and iterative development process, I led the development of a fully functional website in Vue that demonstrated the success of the SOLSTICE initiative on Michigan's campus.",
+        "image":"solstice.png",
+        "url":"https://solstice.engin.umich.edu"
       }
     ]
   }
